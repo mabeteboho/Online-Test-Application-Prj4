@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Which country hosted the 2020 FIFA World Cup?",
+    "choice1": "America",
+    "choice2": "Botswana",
+    "choice3": "Lesotho",
+    "choice4": "Nigeria",
+    "answer": 1
+  },
+  {
+    "question": "Who won the 2008 Formula 1 World Championship?",
+    "choice1": "Rico Barocco",
+    "choice2": "Sechaba Majake",
+    "choice3": "Molelekeng Ndumo",
+    "choice4": "Michel Bolton",
+    "answer": 3
+  },
+  {
+    "question": "Who won the 2013 Cricket World Cup?",
+    "choice1": "South africa",
+    "choice2": "America",
+    "choice3": "Lesotho",
+    "choice4": "Nigeria",
+    "answer": 4
+  },
+  {
+    "question": "Who won the UEFA Champions League in 2023?",
+    "choice1": "Mzansi",
+    "choice2": "Scortland",
+    "choice3": "Niorrobi",
+    "choice4": "Kaizer Chiefs",
+    "answer": 2
+  },
+  
+  {
+    "question": "Which player holds the NHL record of 2,857 points?",
+    "choice1": "Sidney Crosby",
+    "choice2": "Mario Lemieux",
+    "choice3": "Gordie Howe",
+    "choice4": "Wayne Gretzky",
+    "answer": 4
+  }
+  
+]
